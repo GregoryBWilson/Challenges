@@ -9,3 +9,8 @@
 - I am also practising Markdown formating and Preview the file here in GitHub
 - I will commit the changes here and then try to pull to my computer using GitBash  
 - Works like a charm!
+- Added Excel spreadsheet to my folder and pushed to GitHub
+- Edited the spreadsheet on my computer and pushed to GitHub.
+- There were 2 files that changed, appears to be the spreadsheet the .git folder in the main repository folder?
+- Life is good [:smile:]("#" ":smile:")
+- Added this emoji above, just for fun!
