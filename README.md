@@ -13,6 +13,7 @@
 - Edited the spreadsheet on my computer and pushed to GitHub.
 - There were 2 files that changed, appears to be the spreadsheet the .git folder in the main repository folder?
 - Life is good [:smile:]("#" ":smile:")
-- Added this emoji above, just for fun!
-![alt text] (Test.png)..
-- Added a test picture  
+- Added this emoji above, just for fun!  
+![This Alt Text just tells the coder what he or she is trying to insert](/Test.png "This is the Title of the image that floats under the image")
+- Added a test picture *Be careful not to put a space between the ]( brackets!* **It took me a while to figure this out**  
+- Just played with text style above
