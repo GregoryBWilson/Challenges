@@ -8,3 +8,4 @@
 - I am typing these changes directly into GitHub to see what I need to do to get them included on my computer.  
 - I am also practising Markdown formating and Preview the file here in GitHub
 - I will commit the changes here and then try to pull to my computer using GitBash  
+- Works like a charm!
