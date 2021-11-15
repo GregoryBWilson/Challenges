@@ -1,17 +1,36 @@
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 # Kickstarting with Excel
+@@Structure, Organization, and Formatting (8 points)
+The written analysis has the following structure, organization, and formatting:
 
+@@There is a title, and there are multiple paragraphs (2 pt).
+Each paragraph has a heading (2 pt).
+There are subheadings to break up text (2 pt).
+Links are working, and images are correct and displayed where appropriate (2 pt).
 ## Overview of Project
-
+@@Analysis (12 points)
+The written analysis has the following:
+Explain the purpose of this analysis.
 ### Purpose
-
+@@Overview of Project  
+@@The purpose and background are well defined (2 pt).
 ## Analysis and Challenges
-
+@@Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
+@@Analysis and Challenges
+@@The overview of the analysis is well described with screenshots (2 pt).
+@@Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered (2 pt).
 ### Analysis of Outcomes Based on Launch Date
-
+Two conclusions are made about the Theater Outcomes by Launch Date (2 pt).
 ### Analysis of Outcomes Based on Goals
-
+@@One conclusion is made about the Outcomes based on Goals (2 pt).
 ### Challenges and Difficulties Encountered
-
+@@There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs (2 pt).
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
