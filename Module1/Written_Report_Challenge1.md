@@ -34,7 +34,9 @@ I created a number of views to verify the analysis was correct and meaningful.  
 @@One conclusion is made about the Outcomes based on Goals (2 pt).@@
 ![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Outcomes_vs_Goals.png "Theater Outcomes vs Goals - Raw Numbers")
 ### Analysis of Outcomes Based on Country
+
 ![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Success_Rate.png "Theater Outcomes vs Goals - Raw Numbers")
+
 ![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Success_Fail_Ratio.png "Theater Outcomes vs Goals - Raw Numbers")
 
 ### Challenges and Difficulties Encountered
