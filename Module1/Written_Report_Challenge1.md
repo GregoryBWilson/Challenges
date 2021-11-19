@@ -29,8 +29,9 @@ I created a number of views to verify the analysis was correct and meaningful.  
 ### Analysis of Outcomes Based on Launch Date
 @@Two conclusions are made about the Theater Outcomes by Launch Date (2 pt).@@  
 The analysis of the database included a significant number of project in the theatre category and most of those were from the subcategory plays.  The campainge for the play Fever was launched in June may have been slightly late.  In the graphs below you can see that May appears to be the best time of year to have a sucessful champainge.  This is particular true when you analysis the success and failure ratio - the decline from May to the end of the year is significant.  You will also notice that while the success raises from Janurary to May it is not as step as raise and then you find that in May and June the largest numbers of champainges are launch.  I would condulde the following:
-- When you launch a champainge to early in the year it is possible that investors may be included to hold of to see what other opportunites may present themselves
-- If you wait too late the lauch than you are likely the find that many investor have already commited their fund to another project
+- When you launch a champainge to early in the year it is possible that investors may be inclined to hold of to see what other opportunites may present themselves
+- If you wait too late the launch than you are likely the find that many investor have already commited their fund to another project  
+
 ![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Theater_Outcomes_vs_Launch.png "Theater Outcomes vs Lauch Date - Raw Numbers")
 ![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Outcomes_Sucess_Fail_by_Month.png "Theater Outcomes vs Lauch Date - Success/Fail Ratio")
 ### Analysis of Outcomes Based on Goals
