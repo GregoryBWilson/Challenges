@@ -28,9 +28,15 @@ The analysis followed the general process of breaking the available data into ca
 I created a number of views to verify the analysis was correct and meaningful.  I did observe that there was an issue in the project define requirements in that the Outcomes based on Goals last row said Greater than 50000 and the second last row said 45000 to 49999.  This did not affect the values because there were no goals of exactly 50000 for theatres - it would cause issues for other campainge.  I correct this I changed the goal to be Greater than 49999.  Another issue was that I wanted to give Louise better data about what she could do in the future so I created a couple of pivot table that allowed be to extract data that I specifically wanted to discuss with her.  The last item is that the first row was a much smaller range that most others and the last was of course so a line chart could be somewhat deciving - the trend in meanful zones was however valid and I have address this in the explaination.
 ### Analysis of Outcomes Based on Launch Date
 @@Two conclusions are made about the Theater Outcomes by Launch Date (2 pt).@@
-![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Theater_Outcomes_vs_Launch.png "This is the Title of the image that floats under the image")
+![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Theater_Outcomes_vs_Launch.png "Theater Outcomes vs Lauch Date - Raw Numbers")
+![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Outcomes_Sucess_Fail_by_Month.png "Theater Outcomes vs Lauch Date - Success/Fail Ratio")
 ### Analysis of Outcomes Based on Goals
 @@One conclusion is made about the Outcomes based on Goals (2 pt).@@
+![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Outcomes_vs_Goals.png "Theater Outcomes vs Goals - Raw Numbers")
+### Analysis of Outcomes Based on Country
+![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Success_Rate.png "Theater Outcomes vs Goals - Raw Numbers")
+![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Success_Fail_Ratio.png "Theater Outcomes vs Goals - Raw Numbers")
+
 ### Challenges and Difficulties Encountered
 @@There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs (2 pt).@@
 ## Results
