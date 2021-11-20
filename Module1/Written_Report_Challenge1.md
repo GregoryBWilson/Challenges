@@ -43,16 +43,17 @@ The analysis of the database shows that Louise's campaign, at less than $3,000 w
 ![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Outcomes_vs_Goals.png "Theater Outcomes vs Goals - Raw Numbers")
 ### Analysis of Outcomes Based on Country
 
-####What do we know?
+**What do we know?**  
+This is what we have determine based on the work that Louise has contracted us to do.
 - Louise's campaign to seek investment in June was a little late in the year just missing the May peek season.  However that is typically still in a fairly successful time of the year for investor funding
 - Louise's goal was reasonable in terms of what she was looking to raise as she was well below the $5,000 apparent psychological threshold
 - Unfortunately, Louise fell short of her goal
 
-####How can we help?
-Not wanting to leave Louis without a more significant plan to improve her chances next time I decide to have a look at the market in which she was competing.  Using a pivot table with countries as row I noticed that three countries were worth looking at for the theater/play category: Canada, Great Britain and the United States.  The tables below yield some valuable information for Louis:
+**How can we help?**  
+Not wanting to leave Louis without a more significant plan to improve her chances next time, I decide to have a look at the market in which she was competing.  Using a pivot table with countries as rows, I noticed that three countries were worth looking at for the theater/play category: Canada, Great Britain and the United States.  Tables x.x and x.y below yield some valuable information for Louis:
 - While the United States has by far the most campaigns the overall success rate is only 62%
-- In Great Britain the success rate is a whooping 77% overall with successes 3.4 times more likely than failures
-- If Louise feels the logistics of a launch in Great Britain is too difficult, she might consider Canada as an option due to the favourable investment environment and the relative proximity to the US
+- In Great Britain the success rate is an impressive 77% overall with successes 3.4 times more likely than failures
+- If Louise feels the logistics of a launch in Great Britain are too difficult, she might consider Canada as an option due to the favourable investment environment and the relative proximity to the US
 
 ![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Success_Rate.png "Theater Outcomes vs Goals - Raw Numbers")
 
@@ -60,9 +61,11 @@ Not wanting to leave Louis without a more significant plan to improve her chance
 
 ### Challenges and Difficulties Encountered
 @@There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs (2 pt).@@ 
-As mentioned at the introduction to this report there were a few data related issues that were effectively resolve though my work.  More importantly is the common need for better more complete information that all consultant quest.  For example, if it is true that projects who set a low goal are most successful at the beginning, are they also the most likely to fail in production - we don't know because the data is not available. We also know nothing about who is funding the campaign, it would be valuable to know which investor are open to what Louis has to offer. Most projects are funded at a very low level, unfortunately there are not enough data points the reasonably zoom in on the detail of that range to look for opportunities for Louise. 
+As mentioned at the introduction to this report there were a few data related issues that were effectively resolved though my work.  More importantly, there is a need for better, more complete, information - that is the quest of all consultants analyzing data.  For example, if it is true that projects who set a low goal are most successful at the beginning, are they also the most likely to fail in production - we don't know because the data is not available. We also know nothing about who is funding the campaign, it would be valuable to know which investors are open to what Louis has to offer. Most projects are funded at a very low level, unfortunately there are not enough data points to reasonably zoom in on the detail of that range to look for opportunities for Louise. 
 ## Results
 I have discussed a few observations above in the report, but the overall observations are as follows:
 - Louise has a viable ask in terms of financial needs
-- Louise need to improve her timing so that she hits investors at exactly the right time
+- Louise needs to improve her timing so that she hits investors at exactly the right time
 - Louise may wish to look at Great Britain or even Canada as more amenable markets for her play
+
+I would recommend that Louise further engage my consulting services to determine if it would be feasible to launch in a geographic market other than the United States.
