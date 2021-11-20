@@ -1,6 +1,6 @@
 @@ text in purple (and bold)@@
 
-# Kickstarting with Excel
+# Analysis of Goal Achivement for Theatre Play Champainges
 @@Structure, Organization, and Formatting (8 points)@@
 @@The written analysis has the following structure, organization, and formatting:@@
 
@@ -17,7 +17,7 @@ This project was the first challenge in the Carleton University Business Analyti
 @@Overview of Project@@  
 @@The purpose and background are well defined (2 pt).@@  
 The purpose of the specific project within this module was to assist a client, Louise who came close to, but failed to meet her goals in funding a play named Fever.  It is not clear why Louise wants this information but I am assuming that she probably want to make another more fucsed attempt to fund this play.  As we strive for perfection we will definately be giving Lousie the best information available.
-## Analysis and Challenges
+### Analysis and Challenges
 @@Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.@@
 
 @@Analysis and Challenges@@
