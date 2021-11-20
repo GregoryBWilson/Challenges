@@ -35,9 +35,25 @@ The analysis of the database included a significant number of project in the the
 ![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Theater_Outcomes_vs_Launch.png "Theater Outcomes vs Lauch Date - Raw Numbers")
 ![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Outcomes_Sucess_Fail_by_Month.png "Theater Outcomes vs Lauch Date - Success/Fail Ratio")
 ### Analysis of Outcomes Based on Goals
-@@One conclusion is made about the Outcomes based on Goals (2 pt).@@  
+@@One conclusion is made about the Outcomes based on Goals (2 pt).@@
+The analyis of the database shows that Louise champainge, at less than $3,000 was set at a very reasonable goal level.  The only goal level that performed better was at less than a $1,000.  However if you consider that most ranges were $4,999 you could in fact say the Louise was in the highest success range.  You could also say that while the less than $1,00 range was the most successful at raising money, it was also somewhat of an outlier in that it was likely too small a goal to acheive anything of importannce.  I would argue that Lousie was well positioned in term os goals to be successful.  There are very few champainges with goals that exceed $25,000 and in fact it is unlikely that the results above this range are os any statictical significance nased on the small sample size.  Conculsion that could be drawen are:
+- There is a clear trend that demonstrates that the large the goal the leass likely it is to get sufficent pledges
+- The other interesting observation is that there seems to be a significant financial threshold at the $5,000 goal level were investor tend to wain
+
 ![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Outcomes_vs_Goals.png "Theater Outcomes vs Goals - Raw Numbers")
 ### Analysis of Outcomes Based on Country
+
+So what do we know?
+- Lousie was a little late in the year to seek investment, but still in a fairly succesful time of the year
+- Louise's goal was reasonable in terms of what she was looking to raise
+- Unfortunately Louise fail short of her goal
+
+Not wanting to leave Louis without a more significant plan to improve her chances next time I decide to have a look at the market in which she was competing.  Using a pivot table with countries as row I noticed that three countries were worth looking at for the theater/play category: Canada, Great Britan and the United States.  The tables below yeild some valueable information for Louis:
+- While the United Staes has by far the most champainges the overall success rate is only 62%
+- In Great Britain the success rate is a whooping 77% overall with successes 3.4 times more likely than failures
+- If Louise feels the logicals of a launch in Great Britian is too difficult she might consdier Canada as an option due to the favourable investnebt environment and the relative proimity to the US
+-
+
 
 ![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Success_Rate.png "Theater Outcomes vs Goals - Raw Numbers")
 
