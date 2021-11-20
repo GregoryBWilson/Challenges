@@ -8,46 +8,47 @@
 @@Each paragraph has a heading (2 pt).@@
 @@There are subheadings to break up text (2 pt).@@
 @@Links are working, and images are correct and displayed where appropriate (2 pt).@@
-## Overview of Project
+## 1 Overview of Project
 @@Analysis (12 points)@@
 @@The written analysis has the following:@@
 @@Explain the purpose of this analysis.@@  
 This project was the first challenge in the Carleton University Business Analytics and Data Visualization Boot Camp.  Module 1 of the first Unit of the boot camp was intended to enhance our Microsoft Excel skills in a number of areas including statistical modeling, forecasting and prediction.  These skills included the use of pivot tables, charts and graphs to improve the audiences understanding of what the analysis had revealed.
-### Purpose
+### 1.1 Purpose
 @@Overview of Project@@  
 @@The purpose and background are well defined (2 pt).@@  
 The purpose of the specific project within this module was to assist a client, Louise who came close to, but failed to meet her goals in funding a play named Fever.  It is not clear why Louise wants this information, but I am assuming that she probably wants to make another more focused attempt to fund this play.  As we strive for perfection, we will definitely be giving Louise the best information available.
-### Analysis and Challenges
+### 1.2 Analysis and Challenges
 @@Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.@@
 
 @@Analysis and Challenges@@
 @@The overview of the analysis is well described with screenshots (2 pt).@@  
-The analysis followed the general process of breaking the available data into categories and subcategories that were appropriate to Louise's needs.  She was interested in theatre and in particular plays.  I looked at two specific factor that may influence the goal outcome, those being launch date and the actual goal amount.  This data is presented in line chart to show trending.  I also did an analysis by country and extract three candidates to discuss with Louise.  The country data is presented in two small tables.
+The analysis followed the general process of breaking the available data into categories and subcategories that were appropriate to Louise's needs.  She was interested in theatre and in particular plays.  I looked at two specific factors that may influence the goal outcome, those being launch date and the actual goal amount.  This data is presented in a line chart to show trending.  I also did an analysis by country and extracted three indicative candidates to discuss with Louise.  The country data is presented in two small tables, table x.1 and x.2.
 
 @@Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered (2 pt).@@  
-I created a number of views to verify the analysis was correct and meaningful.  I did observe that there was an issue in the project define requirements in that the Outcomes based on Goals last row said Greater than 50000 and the second last row said 45000 to 49999.  This did not affect the values because there were no goals of exactly 50000 for theatres - it would cause issues for other campaign.  I correct this I changed the goal to be Greater than 49999.  Another issue was that I wanted to give Louise better data about what she could do in the future, so I created a couple of pivot table that allowed be to extract data that I specifically wanted to discuss with her.  The last item is that the first row was a much smaller range that most others and the last was of course so a line chart could be somewhat deceiving - the trend in meaningful zones was however valid and I have address this in the explanation.
-### Analysis of Outcomes Based on Launch Date
+I created a number of views to verify the analysis was correct and meaningful.  I did observe that there was an issue in the project defined requirements in that the Outcomes based on Goals last row said Greater than 50000 and the second last row said 45000 to 49999.  This did not affect the values because there were no goals of exactly 50000 for theatres - it would cause issues for other campaigns.  To correct this, I changed the goal to be Greater than 49999.  Another issue was that I wanted to give Louise better data about what she could do in the future, so I created a couple of pivot tables that allowed me to extract data that I specifically wanted to discuss with her.  The last item was that the first row was a much smaller range than most others.  The second row had a slightly smaller and the last row was of course much larger.  Using a line graph chart could be somewhat deceiving, however, the trend in meaningful zones was however valid and I have addressed this in the explanation.
+### 1.3 Analysis of Outcomes Based on Launch Date
 @@Two conclusions are made about the Theater Outcomes by Launch Date (2 pt).@@  
-The analysis of the database included a significant number of projects in the theatre category and most of those were from the subcategory plays.  The campaign for the play Fever was launched in June may have been slightly late.  In the graphs below you can see that May appears to be the best time of year to have a successful campaign.  This is particular true when you analyse the success and failure ratio - the decline from May to the end of the year is significant.  You will also notice that while the success raises from January to May it is not as step as raise and then you find that in May and June the largest numbers of campaigns are launch.  I would conclude the following:
-- When you launch a campaign to early in the year it is possible that investors may be inclined to hold of to see what other opportunities may present themselves
-- If you wait too late the launch than you are likely the find that many investors have already committed their fund to another project  
+The analysis of the database included a significant number of projects in the theatre category and most of those were from the subcategory plays.  The campaign for the play Fever that was launched in June may have been slightly late.  In the graphs x.x and x.y below you can see that May appears to be the best time of year to have a successful campaign.  This is particularly true when you analyse the success and failure ratio - the decline from May to the end of the year is significant.  You will also notice that while the success rises from January to May it is not as steep of a rise and then you find that in May and June the largest numbers of campaigns are launched.  I would conclude the following:
+- When you launch a campaign too early in the year it is possible that investors may be inclined to hold off to see what other opportunities may present themselves
+- If you wait too late to launch, then you are likely to find that many investors have already committed their funds to another project  
 
 ![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Theater_Outcomes_vs_Launch.png "Theater Outcomes vs Launch Date - Raw Numbers")
 ![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Outcomes_Sucess_Fail_by_Month.png "Theater Outcomes vs Launch Date - Success/Fail Ratio")
 ### Analysis of Outcomes Based on Goals
 @@One conclusion is made about the Outcomes based on Goals (2 pt).@@
-The analysis of the database shows that Louise campaign, at less than $3,000 was set at a very reasonable goal level.  The only goal level that performed better was at less than a $1,000.  However, if you consider that most ranges were $4,999 you could in fact say the Louise was in the highest success range.  You could also say that while the less than $1,00 range was the most successful at raising money, it was also somewhat of an outlier in that it was likely too small a goal to achieve anything of importance.  I would argue that Louise was well positioned in term of goals to be successful.  There are very few campaigns with goals that exceed $25,000 and in fact it is unlikely that the results above this range are of any statistical significance based on the small sample size.  The conclusions that could be drawn are:
-- There is a clear trend that demonstrates that the large the goal the less likely it is to get sufficient pledges
-- The other interesting observation is that there seems to be a significant financial threshold at the $5,000 goal level where investor tend to wain
+The analysis of the database shows that Louise's campaign, at less than $3,000 was set at a very reasonable goal level.  The only goal level that performed better was at less than a $1,000.  However, if you consider that most ranges were $4,999 you could in fact say that Louise was in the highest success range.  You could also say that while the less than $1,000 range was the most successful at raising money, it was also somewhat of an outlier in that it was likely too small a goal to achieve anything of importance.  I would argue that Louise was well positioned in terms of goals to be successful.  There are very few campaigns with goals that exceed $25,000 and in fact it is unlikely that the results above this range are of any statistical significance based on the small sample size.  The conclusions that could be drawn are:
+- There is a clear trend that demonstrates that the larger the goal the less likely it is to get sufficient pledges
+- The other interesting observation is that there seems to be a significant financial threshold at the $5,000 goal level where investor's interest tends to wain
 
 ![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Outcomes_vs_Goals.png "Theater Outcomes vs Goals - Raw Numbers")
 ### Analysis of Outcomes Based on Country
 
-So, what do we know?
-- Louise was a little late in the year to seek investment, but still in a fairly successful time of the year
-- Louise's goal was reasonable in terms of what she was looking to raise
+####What do we know?
+- Louise's campaign to seek investment in June was a little late in the year just missing the May peek season.  However that is typically still in a fairly successful time of the year for investor funding
+- Louise's goal was reasonable in terms of what she was looking to raise as she was well below the $5,000 apparent psychological threshold
 - Unfortunately, Louise fell short of her goal
 
+####How can we help?
 Not wanting to leave Louis without a more significant plan to improve her chances next time I decide to have a look at the market in which she was competing.  Using a pivot table with countries as row I noticed that three countries were worth looking at for the theater/play category: Canada, Great Britain and the United States.  The tables below yield some valuable information for Louis:
 - While the United States has by far the most campaigns the overall success rate is only 62%
 - In Great Britain the success rate is a whooping 77% overall with successes 3.4 times more likely than failures
