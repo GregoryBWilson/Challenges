@@ -52,21 +52,16 @@ Not wanting to leave Louis without a more significant plan to improve her chance
 - While the United Staes has by far the most champainges the overall success rate is only 62%
 - In Great Britain the success rate is a whooping 77% overall with successes 3.4 times more likely than failures
 - If Louise feels the logicals of a launch in Great Britian is too difficult she might consdier Canada as an option due to the favourable investnebt environment and the relative proimity to the US
--
-
 
 ![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Success_Rate.png "Theater Outcomes vs Goals - Raw Numbers")
 
 ![This is a graph from my Kickstarter_Challenge.xlsx spreadsheet](Resources/Success_Fail_Ratio.png "Theater Outcomes vs Goals - Raw Numbers")
 
 ### Challenges and Difficulties Encountered
-@@There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs (2 pt).@@  
+@@There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs (2 pt).@@ 
+As meantioned at the introduction to this report there were a few data related issues that were affectivelyt resolve though my work.  More importantly is the common need for better more complete information that all consultant quest.  For example if it is true that projects who set a low goal are most successful at the begining, are they also the most likely to fail in production - we don't know becuase the data is not available. We also know nothing about who is funding the champiage, it would be valuable to know which investor are open to what Louis has to offer. Most projecs are funded at a very low level, unfortanately there are not enough data points the reasonably zoom in on the detail of that range to look for opportunateies for Louise. 
 ## Results
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+I have discuss a few observation above in the report but the overall observatons are as follows:
+- Louise has a visbale ask in terms of financial needs
+- Louise need to improve her timing so that she hits invetors at exactly the right time
+- Louise may wish to look at Great Britian or even Canada as more amenable markets for her play
